@@ -1,0 +1,2 @@
+string-templates:
+  strip-text-from-code-template: "Strip text and leave only code with comments of the following input:\n"

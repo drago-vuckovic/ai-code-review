@@ -1,0 +1,2 @@
+code-analysis:
+  security: "Check for security vulnerabilities of the following code and output only the important vulnerabilities. Output should be in the following format: Line <number>: <Rate the importance of the check from 1 to 5, 1 has least importance and 5 has highest importance>: <Description of the vulnerability> \n\n"

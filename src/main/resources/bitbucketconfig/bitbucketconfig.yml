@@ -1,0 +1,11 @@
+bitbucket:
+  wholeFile: false
+  api:
+    url: ${BITBUCKET_CONTENT_URL}
+  content:
+    url: ${BITBUCKET_CONTENT_URL}
+  repo:
+    api-root-url: "https://api.bitbucket.org/2.0/repositories"
+    file-content-controller:
+      endpoint: "/api/bitbucket/v1"
+      request-header: "FilePath"

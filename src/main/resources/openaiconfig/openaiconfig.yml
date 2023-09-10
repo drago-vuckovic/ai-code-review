@@ -1,0 +1,5 @@
+openai:
+  root:
+    api:
+      key: ${OPENAI_API_ROOT_KEY}
+      url: ${OPENAI_API_ROOT_URL}

@@ -1,0 +1,4 @@
+- username: "dragovuckovic"
+  branch: "master"
+  repo: "testrepository"
+  repositoryAccessToken: "token123"
